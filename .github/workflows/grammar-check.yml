@@ -1,0 +1,30 @@
+# .github/workflows/grammar-check.yml
+name: Prompt Grammar and Style Check
+
+# Trigger this workflow only on Pull Requests targeting the main branch
+on:
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  grammar-check:
+    name: Vale Linter
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Checkout the repository code
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      # 2. Run Vale with Reviewdog integration
+      - name: Vale Grammar Check
+        uses: errata-ai/vale-action@reviewdog
+        with:
+          # Only scan the prompts directory to save compute time
+          files: models/
+          # Post the errors directly on the PR lines as review comments
+          reporter: github-pr-review
+          # Don't fail the build on warnings, only on hard errors
+          fail_on_error: true
+        env:
+          # Required for Reviewdog to post comments on your PR
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}

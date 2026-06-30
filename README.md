@@ -30,21 +30,21 @@ Below is the directory index of active canonical prompts available in this libra
 
 | Prompt / Persona | Domain Focus | Current Version |
 | :--- | :--- | :--- |
-| **[HPC Expert](file:///wsl.localhost/Ubuntu-24.04/home/yungcuan/ai-prompt-library/models/gemini-gems/hpc-expert.md)** | Bare-metal hardware, Slurm/MPI, Lustre/GPFS, cluster automation | `v4.0.0` |
-| **[IT Expert](file:///wsl.localhost/Ubuntu-24.04/home/yungcuan/ai-prompt-library/models/gemini-gems/it-expert.md)** | Enterprise system administration, network topology, cloud infrastructure | `v3.0.0` |
-| **[Tech Troubleshooter](file:///wsl.localhost/Ubuntu-24.04/home/yungcuan/ai-prompt-library/models/gemini-gems/tech-troubleshooter.md)** | Deep diagnostic debugging, log analysis, root cause resolution | `v3.0.0` |
-| **[Prompt Engineer](file:///wsl.localhost/Ubuntu-24.04/home/yungcuan/ai-prompt-library/models/gemini-gems/prompt-engineer.md)** | Advanced prompt design, LLM agent architecture, RAG optimization | `v2.0.0` |
-| **[IT Architect](file:///wsl.localhost/Ubuntu-24.04/home/yungcuan/ai-prompt-library/models/gemini-gems/it-architect.md)** | Enterprise cloud design, Zero Trust security, distributed systems | `v2.0.0` |
-| **[Master Tianji](file:///wsl.localhost/Ubuntu-24.04/home/yungcuan/ai-prompt-library/models/gemini-gems/master-tianji.md)** | Strategic analysis and ancient wisdom framework | `v2.0.0` |
-| **[Cyber Security](file:///wsl.localhost/Ubuntu-24.04/home/yungcuan/ai-prompt-library/models/gemini-gems/cyber-security.md)** | Threat hunting, vulnerability mitigation, DevSecOps practices | `v1.0.0` |
-| **[Automation Architect](file:///wsl.localhost/Ubuntu-24.04/home/yungcuan/ai-prompt-library/models/gemini-gems/automation-architect.md)** | Infrastructure-as-Code (IaC), CI/CD pipelines, enterprise scripting | `v1.0.0` |
-| **[Quantitative Architect](file:///wsl.localhost/Ubuntu-24.04/home/yungcuan/ai-prompt-library/models/gemini-gems/quantitative-architect.md)** | Algorithmic trading infrastructure, high-frequency execution engines | `v1.0.0` |
-| **[Software Engineer](file:///wsl.localhost/Ubuntu-24.04/home/yungcuan/ai-prompt-library/models/gemini-gems/software-engineer.md)** | Full-stack architecture, clean code principles, system design | `v1.0.0` |
-| **[Robotic Engineer](file:///wsl.localhost/Ubuntu-24.04/home/yungcuan/ai-prompt-library/models/gemini-gems/robotic-engineer.md)** | ROS, embedded systems, kinematics, IoT automation | `v1.0.0` |
-| **[Pine Script Developer](file:///wsl.localhost/Ubuntu-24.04/home/yungcuan/ai-prompt-library/models/gemini-gems/pine-script-developer.md)** | TradingView custom indicators and automated trading strategy design | `v1.0.0` |
-| **[Data Engineering Architect](file:///wsl.localhost/Ubuntu-24.04/home/yungcuan/ai-prompt-library/models/gemini-gems/lead-data-analyst-data-engineering-architect.md)** | Big data pipelines, ETL/ELT optimization, data warehousing | `v1.0.0` |
-| **[Linux Script Developer](file:///wsl.localhost/Ubuntu-24.04/home/yungcuan/ai-prompt-library/models/gemini-gems/linux-script-developer.md)** | Advanced Bash/Shell utilities, kernel tuning, cron workflows | `v1.0.0` |
-| **[First Principles Architect](file:///wsl.localhost/Ubuntu-24.04/home/yungcuan/ai-prompt-library/models/gemini-gems/first-principles-architect.md)** | Deconstructing complex engineering problems from ground truth | `v1.0.0` |
+| **[HPC Expert](models/gemini-gems/hpc-expert.md)** | Bare-metal hardware, Slurm/MPI, Lustre/GPFS, cluster automation | `v4.0.0` |
+| **[IT Expert](models/gemini-gems/it-expert.md)** | Enterprise system administration, network topology, cloud infrastructure | `v3.0.0` |
+| **[Tech Troubleshooter](models/gemini-gems/tech-troubleshooter.md)** | Deep diagnostic debugging, log analysis, root cause resolution | `v3.0.0` |
+| **[Prompt Engineer](models/gemini-gems/prompt-engineer.md)** | Advanced prompt design, LLM agent architecture, RAG optimization | `v2.0.0` |
+| **[IT Architect](models/gemini-gems/it-architect.md)** | Enterprise cloud design, Zero Trust security, distributed systems | `v2.0.0` |
+| **[Master Tianji](models/gemini-gems/master-tianji.md)** | Strategic analysis and ancient wisdom framework | `v2.0.0` |
+| **[Cyber Security](models/gemini-gems/cyber-security.md)** | Threat hunting, vulnerability mitigation, DevSecOps practices | `v1.0.0` |
+| **[Automation Architect](models/gemini-gems/automation-architect.md)** | Infrastructure-as-Code (IaC), CI/CD pipelines, enterprise scripting | `v1.0.0` |
+| **[Quantitative Architect](models/gemini-gems/quantitative-architect.md)** | Algorithmic trading infrastructure, high-frequency execution engines | `v1.0.0` |
+| **[Software Engineer](models/gemini-gems/software-engineer.md)** | Full-stack architecture, clean code principles, system design | `v1.0.0` |
+| **[Robotic Engineer](models/gemini-gems/robotic-engineer.md)** | ROS, embedded systems, kinematics, IoT automation | `v1.0.0` |
+| **[Pine Script Developer](models/gemini-gems/pine-script-developer.md)** | TradingView custom indicators and automated trading strategy design | `v1.0.0` |
+| **[Data Engineering Architect](models/gemini-gems/lead-data-analyst-data-engineering-architect.md)** | Big data pipelines, ETL/ELT optimization, data warehousing | `v1.0.0` |
+| **[Linux Script Developer](models/gemini-gems/linux-script-developer.md)** | Advanced Bash/Shell utilities, kernel tuning, cron workflows | `v1.0.0` |
+| **[First Principles Architect](models/gemini-gems/first-principles-architect.md)** | Deconstructing complex engineering problems from ground truth | `v1.0.0` |
 
 ---
 

@@ -99,3 +99,8 @@ When modifying existing prompts:
    git commit -m "feat(hpc-expert): add slurm memory binding guardrails to v4.1.0"
    git push origin main
    ```
+
+## Repository Sections
+
+- 📝 [**Prompts**](prompts/) — Standalone system prompts and task templates.
+- 🤖 [**Agents**](agents/) — Autonomous agent definitions, workflows, and operational specifications.
